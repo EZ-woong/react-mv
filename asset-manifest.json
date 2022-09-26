@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Front/static/js/main.a0135564.js",
-    "index.html": "/Front/index.html",
-    "main.a0135564.js.map": "/Front/static/js/main.a0135564.js.map"
+    "main.js": "/react-mv/static/js/main.68dbca8b.js",
+    "index.html": "/react-mv/index.html",
+    "main.68dbca8b.js.map": "/react-mv/static/js/main.68dbca8b.js.map"
   },
   "entrypoints": [
-    "static/js/main.a0135564.js"
+    "static/js/main.68dbca8b.js"
   ]
 }
